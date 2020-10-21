@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<parent>
+		<artifactId></artifactId>
+		<groupId></groupId>
+		<version>5.1.4.0</version>
+	</parent>
+
+
+	<version>1.1.0-SNAPSHOT</version>
+
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>finpss-ups</artifactId>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>finpss-ups-facades</module>
+		<module>finpss-ups-service</module>
+	</modules>
+
+	<properties>
+		<zipname.version>202012-00-000</zipname.version>
+	
+	</properties>
+	<repositories>
+
+	</repositories>
+	<pluginRepositories>
+
+	</pluginRepositories>
+	<!-- 远程仓库配置-上传使用 -->
+	<distributionManagement>
+	</distributionManagement>
+
+
+	<scm>
+		
+	</scm>
+
+	<dependencyManagement>
+			
+	</dependencyManagement>
+	<build>
+		<plugins>
+			<plugin>
+				
+			</plugin>
+
+		</plugins>
+	</build>
+
+	
+
+</project>
