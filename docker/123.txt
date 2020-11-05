@@ -1,4 +1,3 @@
-12333333
 集成环境以下操作需在root用户下进行：
 0、安装docker。scc集成环境装了docker，故未安装，可参考：http://registry.hundsun.com:8055/docker/
 1、SSL证书设置
