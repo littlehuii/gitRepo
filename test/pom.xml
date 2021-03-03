@@ -8,7 +8,7 @@
 	</parent>
 
 
-	<version>1.1.3.3-SNAPSHOT</version>
+	<version>1.1.3.3-12345-SNAPSHOT</version>
 
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>finpss-ups</artifactId>
@@ -20,7 +20,7 @@
 	</modules>
 
 	<properties>
-		<zipname.version>202012-01-002M9</zipname.version>
+		<zipname.version>202012-01-002M9-12345</zipname.version>
 	
 	</properties>
 	<repositories>
