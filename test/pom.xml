@@ -20,7 +20,7 @@
 	</modules>
 
 	<properties>
-		<zipname.version>202101-01A-001-12345</zipname.version>
+		<zipname.version>V202101-01A-001-12345</zipname.version>
 	
 	</properties>
 	<repositories>
