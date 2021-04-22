@@ -1,6 +1,6 @@
 {
  "name": "hswealth-aio",
- "version": "2.6.0.0",
+ "version": "2.4.5.0",
  "huiProVersion": "1.3.3",
  "productName": "aicc",
  "description": "智能外呼前端",
@@ -214,5 +214,6 @@
   "release.json",
   "sysconfig.js"
  ],
- "hwsProVersion": "1.3.4"
+ "hwsProVersion": "1.3.4",
+ "buildVersion": ""
 }
