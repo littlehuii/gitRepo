@@ -214,6 +214,5 @@
   "release.json",
   "sysconfig.js"
  ],
- "hwsProVersion": "1.3.4",
- "buildVersion": ""
+ "hwsProVersion": "1.3.4"
 }
